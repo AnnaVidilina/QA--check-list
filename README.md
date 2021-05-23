@@ -1,1 +1,1 @@
-# Syberry-Academy-QA---check-list
+# Syberry-Academy-QA-check-list
